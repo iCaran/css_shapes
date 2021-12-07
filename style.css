@@ -1,0 +1,91 @@
+.tear1 {
+  width: 200px;
+  height: 200px;
+  border-radius: 0 35% 65% 35%;
+  border: 3px solid green;
+  margin-top: 20px;
+  background: green
+}
+.tear2 {
+  width: 200px;
+  height: 200px;
+  border-radius: 35% 65% 35% 0%;
+  border: 3px solid green;
+  background: green;
+}
+.tear3 {
+  width: 200px;
+  height: 200px;
+  border-radius: 35% 65% 35% 0%;
+  border: 3px solid green;
+  margin-top: -410px;
+  margin-left: 205px;
+  transform: rotate(180deg);
+  background: green;
+}
+.tear4 {
+  width: 200px;
+  height: 200px;
+  border-radius: 35% 65% 35% 0%;
+  border: 3px solid green;
+  margin-left: 205px;
+  transform: rotate(270deg);
+  background: green;
+}
+.b1{
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  background: #FFF;
+  border: 65px solid #EC7357;
+  border-radius: 100%;
+  margin-top: 50px;
+}
+.b2{
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  background: #FFF;
+  border: 5px solid #EC7357;
+  border-radius: 100%;
+  left: -5px;
+  top: -5px
+}
+.b3{
+  position: absolute;
+  width: 160px;
+  height: 160px;
+  background: #FFF;
+  border: 5px solid #EC7357;
+  border-radius: 100%;
+  left: 60px;
+  top: 60px
+}
+.b4{
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background: #FFF;
+  border: 5px solid #EC7357;
+  border-radius: 100%;
+  left: -5px;
+  top: -5px
+}
+.c1 {
+  position: absolute;
+  width: 300px;
+  height: 300px;
+  background: #FFF;
+  border: 60px solid #1535cb;
+  border-radius: 100%;
+  left: -60px;
+  top: -60px;
+}
+.c2 {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  background: #FFF;
+  border: 30px solid #1535cb;
+  border-radius: 100%;
+}
